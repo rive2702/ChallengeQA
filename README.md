@@ -1,6 +1,6 @@
 # ChallengeQA
 
-CHALLENGE 1
+CHALLENGE 1 - SerenityBDD
 
 1. Prerequisitos:
 -Hardware:  Maquina Local - Lenovo Legion 15 ()
@@ -40,7 +40,7 @@ CHALLENGE 1
 
 	PASO 6 - Llegar al mensaje final - terminar flujo de compra
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-CHALLENGE 2
+CHALLENGE 2 - KARATE
 
 1. Prerequisitos:
 -Hardware:  Maquina Local - Lenovo Legion 15 ()
