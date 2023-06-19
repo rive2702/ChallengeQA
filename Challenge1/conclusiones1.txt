@@ -1,0 +1,7 @@
+Ejercicio E2E
+
+-El presente ejercicio permite poner en práctica conceptos base en cuanto a pruebas end to end (e2e) se refiere, también abarca conceptos de lenguaje Gerkhin y por supuesto la implementación de la build-tool 'SerenityBDD-Framework.
+
+-SerenityBDD por su parte ofrece ciertas ventajas al momento de realizar los tests, tanto de aceptación o regresión, su implementación es limpia y permite un mantenimiento mucho mas flexible y amigable con el ususario/desarrollador. El uso de esta herramienta tambien permite obtener reportes visuales y bien detallados de cada uno de los procesos de prueba.
+
+-La implementación de pruebas de automatización en el ámbito del QA es muy importante en la actualidad pues sus principales ventajas son el ahorro de tiempo en varios aspectos del proceso de desarrollo de la empresa y sobre todo de inversión a largo plazo, pues las pruebas pueden ser programadas para que se realicen 24/7 optimizando tiempo y reduciendo los recursos humanos durante este proceso de testing.

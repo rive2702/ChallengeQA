@@ -6,8 +6,8 @@ Ejercicio APIS
 
 -Los resultados arrojados durante los tests fueron los esperados. Pues los metodos http utilizados cumplieron con su objetivo individual dando un proceso de peticion-respuesta exitoso.
 
--El presente ejercicio permite poner en practica conceptos base en cuanto a pruebas de apis se refiere, tambien abarca conceptos de lenguaje Gerkhin y por supuesto la implementacion de la build-tool 'Karate-Framework.
+-El presente ejercicio permite poner en práctica conceptos base en cuanto a pruebas de apis se refiere, también abarca conceptos de lenguaje Gerkhin y por supuesto la implementación de la build-tool 'Karate-Framework.
 
--Karate-framework por su parte permite la simplificacion al momento de realizar el/los feature/s necesario/s para cada test, ademas de que su implementacion es muy amigable con el ususario/desarrollador. El uso de esta herramienta tambien permite obtener reportes visuales y bien detallados de cada uno de los procesos de prueba.
+-Karate-framework por su parte permite la simplificación al momento de realizar el/los feature/s necesario/s para cada test, además de que su implementación es muy amigable con el ususario/desarrollador. El uso de esta herramienta también permite obtener reportes visuales y bien detallados de cada uno de los procesos de prueba.
 
--La implementacion de pruebas de automatizacion en el ambito del QA es muy importante en la actualidad pues sus principales ventajas son el ahorro de tiempo en varios aspectos del proceso de desarrollo de la empresa y sobre todo de inversion a largo plazo, pues las pruebas pueden ser programadas para que se realicen 24/7 optimizando tiempo y reduciendo los recursos humanos durante este proceso de testeo.
+-La implementación de pruebas de automatizacion en el ámbito del QA es muy importante en la actualidad pues sus principales ventajas son el ahorro de tiempo en varios aspectos del proceso de desarrollo de la empresa y sobre todo de inversión a largo plazo, pues las pruebas pueden ser programadas para que se realicen 24/7 optimizando tiempo y reduciendo los recursos humanos durante este proceso de testeo.
