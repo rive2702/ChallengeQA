@@ -1,6 +1,8 @@
 # ChallengeQA
-
-CHALLENGE 1 - SerenityBDD
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------
+CHALLENGE 1 - E2E TEST - SerenityBDD
+------------------------------------
 
 1. Prerequisitos:
 -Hardware:  Maquina Local - Lenovo Legion 15 ()
@@ -8,7 +10,6 @@ CHALLENGE 1 - SerenityBDD
 -IDE: Intellij Idea v2023.1
 -JDK 1.8.0_202
 -Gradle 8.1.1
-
 
 2. Comandos de instalacion
 
@@ -40,7 +41,11 @@ CHALLENGE 1 - SerenityBDD
 
 	PASO 6 - Llegar al mensaje final - terminar flujo de compra
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-CHALLENGE 2 - KARATE
+ CHALLENGE 1 Extra - E2E test - Playwright Python
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------
+CHALLENGE 2 - REST API TEST KARATE
+----------------------------------
 
 1. Prerequisitos:
 -Hardware:  Maquina Local - Lenovo Legion 15 ()
